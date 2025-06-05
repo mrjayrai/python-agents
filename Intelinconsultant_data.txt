@@ -1,0 +1,63 @@
+Schema Created Till now:
+
+User
+Attendance
+Opportunity
+training
+userskillset
+
+API Created till now:
+
+Register user
+Login User
+Add skillset
+
+Agents Created Till now:
+
+Opportunity_agent
+resume_agent
+training_agent
+attendance_agent
+
+Server Created Till now:
+
+Node JS server
+Flask Server
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+To be completed
+
+API's------------
+
+Add/get Attendance
+Add/get Opportunity
+Add/get Training
+
+update user
+update skillset
+
+Agents in flask
+
+
+Visualization ------------------- 2nd and 3rd week
+Data insights
+
+Chart.js / Plotly
+
+
+Attendance 
+Training percenatge completed
+Skills
+Profile Update
+Job application
+
+
+
+
+frontend---------------------------------- 2nd and 3rd week to be decided
+
+Consultant dashboard
+Manager dashboard
+
